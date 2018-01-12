@@ -1,0 +1,12 @@
+.idea/
+.vscode/
+*.zip
+*.rar
+*.log
+.svn
+.DS_Store
+.com.apple.timemachine.supported
+.cache/
+node_modules/
+
+dist/
